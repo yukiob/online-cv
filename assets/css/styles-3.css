@@ -304,13 +304,3 @@ used for profile image
   border-radius: 100%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
-
-/*skype align
-*/
-.SkypeButton_Call_yukiob_1_paraElement {
-    margin:0 !important;
-}   
-.SkypeButton_Call_yukiob_1_paraElement img {
-    margin:0 !important;
-    vertical-align:middle !important;
-}   
