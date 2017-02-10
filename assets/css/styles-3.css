@@ -307,6 +307,9 @@ used for profile image
 
 /*skype align
 */
+#SkypeButton_Call_yukiob_1_paraElement {
+    margin:0 !important;
+}   
 #SkypeButton_Call_yukiob_1_paraElement img {
     margin:0 !important;
     vertical-align:middle !important;
