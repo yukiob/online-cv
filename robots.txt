@@ -1,4 +1,6 @@
 ---
 ---
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://yukio.dk/sitemap.xml
+
+Disallow: _config.yml
