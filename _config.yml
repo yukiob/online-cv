@@ -25,3 +25,6 @@ linkedin: yukiob
 #github: yukiob
 
 #Update all the sections by editing the files inside _includes folder.
+
+gems:
+  - jekyll-sitemap
